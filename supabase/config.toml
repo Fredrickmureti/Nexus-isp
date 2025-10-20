@@ -1,0 +1,61 @@
+project_id = "rxxbzxcshywgzagbifvi"
+
+[functions.sync-router-info]
+verify_jwt = true
+
+[functions.sync-router-interfaces]
+verify_jwt = true
+
+[functions.sync-pppoe-sessions]
+verify_jwt = true
+
+[functions.test-router-connection]
+verify_jwt = true
+
+[functions.sync-vlans]
+verify_jwt = true
+
+[functions.sync-dhcp-servers]
+verify_jwt = true
+
+[functions.sync-ip-pools]
+verify_jwt = true
+
+[functions.sync-firewall-rules]
+verify_jwt = true
+
+[functions.sync-bandwidth-queues]
+verify_jwt = true
+
+[functions.configure-vlan]
+verify_jwt = true
+
+[functions.configure-bandwidth-queue]
+verify_jwt = true
+
+[functions.disconnect-customer-session]
+verify_jwt = true
+
+[functions.set-bandwidth-limit]
+verify_jwt = true
+
+[functions.onboard-customer]
+verify_jwt = true
+
+[functions.register-isp]
+verify_jwt = true
+
+[functions.sync-pppoe-secrets]
+verify_jwt = true
+
+[functions.sync-nat-rules]
+verify_jwt = true
+
+[functions.sync-router-ip-addresses]
+verify_jwt = true
+
+[functions.configure-pppoe-secret]
+verify_jwt = true
+
+[functions.configure-nat-rule]
+verify_jwt = true
