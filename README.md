@@ -213,21 +213,7 @@ The `dist/` folder contains the production-ready application.
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
 
-## 🤝 Contributing
 
-This project is managed through Lovable. Changes can be made:
-1. Via the Lovable editor at [lovable.dev](https://lovable.dev/projects/81352542-6c8f-4631-8e44-b00cbb0cf9d0)
-2. Directly in your IDE by cloning and pushing changes
-3. Through GitHub using pull requests
-
-## 📖 Documentation
-
-- [Lovable Documentation](https://docs.lovable.dev/)
-- [Supabase Documentation](https://supabase.com/docs)
-- [React Documentation](https://react.dev/)
-- [Tailwind CSS](https://tailwindcss.com/docs)
-
-## 🐛 Troubleshooting
 
 ### Common Issues
 
@@ -235,15 +221,5 @@ This project is managed through Lovable. Changes can be made:
 **Database access denied**: Check RLS policies in Supabase dashboard
 **Router connection fails**: Verify MikroTik API access and credentials
 
-## 📄 License
 
-This project is private and proprietary.
 
-## 🔗 Links
-
-- **Project URL**: https://lovable.dev/projects/81352542-6c8f-4631-8e44-b00cbb0cf9d0
-- **Supabase Project**: https://supabase.com/dashboard/project/rxxbzxcshywgzagbifvi
-
----
-
-Built with ❤️ using [Lovable](https://lovable.dev)
